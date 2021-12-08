@@ -2,9 +2,9 @@ public class Sam02 {
 
     public static void main(String[] args) {
 
-        int j1 = 0b0000_0000_0000_0000_0000_0000_0000_0001;
-        int j2 = 0b0000_0000_0000_0000_0000_0000_0000_0001;
-        int j3 = j1 + j2;
+        // int j1 = 0b0000_0000_0000_0000_0000_0000_0000_0001;
+        // int j2 = 0b0000_0000_0000_0000_0000_0000_0000_0001;
+        // /int j3 = j1 + j2;
 
         // System.out.println(j1);
         // System.out.println(j3);
@@ -19,6 +19,7 @@ public class Sam02 {
 
         System.out.println(i1);
         System.out.println(i2);
+        System.out.println(i1_2);
         System.out.println(i1 + i2);
 
 
