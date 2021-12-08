@@ -1,3 +1,4 @@
+package Sam01;
 public class Sam14 {
     
     public static void main(String[] args) {
