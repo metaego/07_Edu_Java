@@ -32,8 +32,8 @@ public class Sam15 {
                 day = 30;
                 break;
             
-            default:
-                System.out.println("month값이 유효하지 않습니다.");
+            // default:
+            //     System.out.println("month값이 유효하지 않습니다.");
             
         }
 
